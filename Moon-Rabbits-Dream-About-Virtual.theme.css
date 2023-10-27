@@ -53,7 +53,7 @@
     --bg-gradient1: #e297b2;
     --bg-gradient2: #c0b4d5;
     --bg-gradient3: #54b5de;
-    --bg-image: ("https://i.pximg.net/img-master/img/2018/09/25/00/00/01/70858371_p0_master1200.jpg"); /* Write the image url, example url("your url") [none is default]*/
+    --bg-image: (https://i.pximg.net/img-master/img/2018/09/25/00/00/01/70858371_p0_master1200.jpg;) /* Write the image url, example url("your url") [none is default]*/
     --opacity: 0.4; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
 
